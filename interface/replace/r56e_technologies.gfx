@@ -891,7 +891,22 @@ spriteTypes = {
 	}
 	
 #-<><><>
-	
+		
+	SpriteType = {
+		name = "GFX_ITA_mechanised_infantry_medium"
+		texturefile = "gfx/interface/technologies/infantry/ITA_mechanized_equipment_1.dds"
+	}
+		
+	SpriteType = {
+		name = "GFX_ITA_mechanised_infantry2_medium"
+		texturefile = "gfx/interface/technologies/infantry/ITA_mechanized_equipment_2.dds"
+	}
+			
+	SpriteType = {
+		name = "GFX_ITA_mechanised_infantry3_medium"
+		texturefile = "gfx/interface/technologies/infantry/ITA_mechanized_equipment_3.dds"
+	}
+		
 	SpriteType = {
 		name = "GFX_mechanised_infantry_a_medium"
 		texturefile = "gfx/interface/technologies/infantry/mechanised_infantry_a.dds"
@@ -907,6 +922,16 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/infantry/JAP_mechanised_infantry_a.dds"
 	}
 	
+	SpriteType = {
+		name = "GFX_ITA_mechanised_infantry_a_medium"
+		texturefile = "gfx/interface/technologies/infantry/ITA_mechanized_infantry_a.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_ITA_mechanised_infantry_b_medium"
+		texturefile = "gfx/interface/technologies/infantry/ITA_mechanized_infantry_b.dds"
+	}
+			
 	SpriteType = {
 		name = "GFX_SOV_mechanised_infantry_a_medium"
 		texturefile = "gfx/interface/technologies/infantry/SOV_mechanised_infantry_a.dds"
